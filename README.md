@@ -4,22 +4,12 @@ General Proposals for ProjectSandstone
 
 # Make a porposal
 
-Create a pull request (or a issue) formatted like:
+Create a pull request (or a issue) of the porposal description, make sure to create a file in the correct category directory.
 
-## Format
+Read the `README` file of the category directory.
 
-### Short Description
+# Categories
 
-A short description about the proposal.
+- [Feature](https://github.com/ProjectSandstone/GPPS/feature/).
 
-### Long Description
-
-A long description explaining:
-
-- The proposal
-- Advantages and disadvantages
-- Reasons to implement
-
-### Additional information
-
-Additional information that you consider relevant.
+- [Language support](https://github.com/ProjectSandstone/GPPS/language_support/).
